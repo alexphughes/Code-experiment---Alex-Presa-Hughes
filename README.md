@@ -23,3 +23,11 @@ The results and possible limitations of the experiment have also been discussed 
 
 This is an experiment that has been conducted by Alex Presa Hughes (202409807@post.au.dk), as part of a subject called Cognition and Communication.
 The person that conducted this experiment was a student at Aarhus University at the time.
+
+It must be noted that the document called "Cognition & Communication - Alex Presa Hughes.html" is too big to successfully upload to a platform like GitHub. Therefore, I split this document into 6 parts and there are 6 independent documents with R code for the analysis.
+
+The Python code is stored in two documents: "CogComm_Experiment_alexphughes.py" has the code used to scrape the news articles and extract the headlines and further on also analyze the headlines with several libraries, and "Headline_Reading_Experiment.py" has the code used to present a computer screen to participants, with the headlines as stimuli, and to record their performance (reaction time and accuracy).
+
+The PDF named "Cognition & Communication Portfolio - Alex Presa Hughes.pdf" contains the scientific research and report with detailed information about the experiment itself, past research, the procedure, the analyses, the results and a discussion, among other things, offering a comprehensive understanding of the experiment.
+
+The content within this repository is stored under an MIT license.
